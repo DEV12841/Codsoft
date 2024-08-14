@@ -139,23 +139,3 @@ elif choice == 5:
         print("Not available")
 else :
     print("Wrong Entry! please try again...")
-
-0 comments on commit f971e68
-@DEV12841
-Comment
- 
-Leave a comment
- 
-Loading
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-task2 · Devbhardwaj1245/Codsoft@f971e68
